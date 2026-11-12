@@ -1,0 +1,43 @@
+{
+ "mssv": "2A202603163",
+ "ten": "TaDucThang",
+ "pool_version": "d04-k5-v2",
+ "cvat_user": "admin",
+ "project": "d04-keypoint",
+ "persons": [
+  "000000043968.jpg",
+  "000000294329.jpg",
+  "000000336477.jpg",
+  "000000455536.jpg",
+  "000000564304.jpg",
+  "000000324953.jpg",
+  "000000467300.jpg",
+  "000000469061.jpg",
+  "000000043719.jpg",
+  "000000163118.jpg",
+  "000000269462.jpg",
+  "000000522889.jpg"
+ ],
+ "faces": [
+  "face_122747.jpg",
+  "face_469647.jpg",
+  "face_496353.jpg",
+  "face_137371.jpg",
+  "face_79591.jpg",
+  "face_380754.jpg",
+  "face_255797.jpg",
+  "face_41666.jpg"
+ ],
+ "tasks": {
+  "persons": {
+   "task_id": 11,
+   "job_id": 11,
+   "task_name": "persons-TaDucThang"
+  },
+  "faces": {
+   "task_id": 12,
+   "job_id": 12,
+   "task_name": "faces-TaDucThang"
+  }
+ }
+}
